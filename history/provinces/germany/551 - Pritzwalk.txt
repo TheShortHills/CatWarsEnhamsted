@@ -1,0 +1,8 @@
+owner = DDR
+controller = DDR
+add_core = DDR
+#add_core = GER
+trade_goods = cattle
+life_rating = 38
+1861.1.1 = { railroad = 3 }
+

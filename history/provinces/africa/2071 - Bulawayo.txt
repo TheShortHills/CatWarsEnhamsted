@@ -1,0 +1,8 @@
+owner = ENG
+controller = ENG
+colonial = 1
+trade_goods = iron
+life_rating = 20
+
+
+

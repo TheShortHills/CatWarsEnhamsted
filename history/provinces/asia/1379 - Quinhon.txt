@@ -1,0 +1,6 @@
+owner = SVI
+controller = SVI
+add_core = SVI
+trade_goods = silk
+life_rating = 30
+

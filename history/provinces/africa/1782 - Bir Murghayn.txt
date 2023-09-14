@@ -1,0 +1,8 @@
+owner = FRA
+controller = FRA
+colonial = 2
+trade_goods = iron
+life_rating = 10
+
+
+

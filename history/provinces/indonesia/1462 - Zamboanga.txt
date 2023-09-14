@@ -1,0 +1,9 @@
+owner = PHL
+controller = PHL
+add_core = PHL
+trade_goods = iron
+life_rating = 30
+
+
+
+

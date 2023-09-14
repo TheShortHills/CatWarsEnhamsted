@@ -1,0 +1,8 @@
+owner = KMT
+controller = KMT
+add_core = KMT
+add_core = CHI
+#add_core = TPG
+trade_goods = tea
+life_rating = 32
+

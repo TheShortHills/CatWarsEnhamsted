@@ -1,0 +1,6 @@
+owner = FRA
+controller = FRA
+colonial = 2
+trade_goods = sulphur
+life_rating = 10
+

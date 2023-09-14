@@ -1,0 +1,11 @@
+owner = INO
+controller = INO
+add_core = INO
+#add_core = INO
+trade_goods = sulphur
+life_rating = 30
+
+1861.1.1 = {
+	naval_base = 2
+}
+

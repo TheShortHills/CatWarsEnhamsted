@@ -1,0 +1,7 @@
+owner = SKO
+controller = SKO
+add_core = SKO
+add_core = KOR
+trade_goods = coal
+life_rating = 35
+

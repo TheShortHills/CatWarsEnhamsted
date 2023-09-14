@@ -1,0 +1,9 @@
+owner = YUG
+controller = YUG
+add_core = YUG
+add_core = CRO
+add_core = HUN
+
+trade_goods = cattle
+life_rating = 35
+

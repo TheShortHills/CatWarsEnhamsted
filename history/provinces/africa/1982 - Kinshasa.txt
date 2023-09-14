@@ -1,0 +1,5 @@
+owner = BEL
+controller = BEL
+trade_goods = fruit
+life_rating = 20
+colonial = 1
