@@ -1,5 +1,6 @@
-owner = HAW
-controller = HAW
+owner = USA
+controller = USA
+add_core = USA
 add_core = HAW
 trade_goods = fish
 life_rating = 35

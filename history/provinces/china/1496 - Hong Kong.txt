@@ -1,5 +1,5 @@
-owner = CHI
-controller = CHI
+owner = ENG
+controller = ENG
 add_core = CHI
 #add_core = TPG
 trade_goods = silk
@@ -13,3 +13,4 @@ life_rating = 32
 	fort = 1
 	naval_base = 1
 }
+colonial = 2

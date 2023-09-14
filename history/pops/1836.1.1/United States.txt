@@ -2824,7 +2824,7 @@
     aristocrats = {
         culture = texan
         religion = protestant
-        size = 26
+        size = 25
     }
 
     bureaucrats = {

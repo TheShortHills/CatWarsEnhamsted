@@ -9,6 +9,8 @@ SVI		= "countries/South Vietnam.txt"
 KMT		= "countries/Republic of China.txt"
 NKO		= "countries/North Korea.txt"
 SKO		= "countries/South Korea.txt"
+JOR		= "countries/Jordan.txt"
+LEB		= "countries/Lebanon.txt"
 
 # Common Great Powers
 ENG		= "countries/United Kingdom.txt"

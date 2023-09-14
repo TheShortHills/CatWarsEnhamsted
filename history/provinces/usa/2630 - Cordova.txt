@@ -1,6 +1,6 @@
-owner = RUS
-controller = RUS
-colonial = 2
+owner = USA
+controller = USA
+add_core = USA
 trade_goods = fish
 life_rating = 15
 

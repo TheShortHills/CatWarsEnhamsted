@@ -1,5 +1,5 @@
-owner = YEM
-controller = YEM
+owner = ENG
+controller = ENG
 add_core = YEM
 trade_goods = cattle
 life_rating = 35
@@ -9,4 +9,4 @@ life_rating = 35
 	colonial = 2
 	naval_base = 1
 }
-
+colonial = 2
