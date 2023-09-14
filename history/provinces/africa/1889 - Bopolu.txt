@@ -3,6 +3,3 @@ controller = LIB
 add_core = LIB
 trade_goods = iron
 life_rating = 32
-
-
-

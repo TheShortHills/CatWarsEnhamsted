@@ -4,9 +4,3 @@ colonial = 1
 add_core = TRI
 trade_goods = sulphur
 life_rating = 25
-1861.1.1 = {
-	owner = TUR
-	controller = TUR
-	colonial = 2
-}
-
