@@ -2,9 +2,5 @@ owner = RUS
 controller = RUS
 add_core = RUS
 add_core = SLV
-add_core = HUN
-#add_core = CZH
-#add_core = RUT
 trade_goods = coal
 life_rating = 35
-
