@@ -1,6 +1,4 @@
-owner = ARG
-controller = ARG
-add_core = ARG
-trade_goods = cotton
+owner = ARG
+controller = ARGadd_core = ARGtrade_goods = cotton
 life_rating = 35
 
