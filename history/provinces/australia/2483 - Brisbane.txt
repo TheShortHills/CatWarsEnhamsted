@@ -2,10 +2,4 @@ owner =  AST
 controller =  AST
 add_core = AST
 trade_goods = cattle
-life_rating = 40
-
-1836.1.2 = {
-	owner = AST
-	controller = AST
-	colonial = 0
-}
+life_rating = 32

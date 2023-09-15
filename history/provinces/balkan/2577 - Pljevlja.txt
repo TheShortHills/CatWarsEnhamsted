@@ -2,9 +2,5 @@ owner = YUG
 controller = YUG
 add_core = YUG
 add_core = MON
-
 trade_goods = iron
 life_rating = 35
-
-
-

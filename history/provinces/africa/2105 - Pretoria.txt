@@ -2,7 +2,5 @@ owner = SAF
 controller = SAF
 add_core = SAF
 add_core = TRN
-add_core = SAF
 trade_goods = grain
 life_rating = 35
-

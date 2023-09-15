@@ -3,7 +3,3 @@ controller = SAF
 add_core = SAF
 trade_goods = iron
 life_rating = 25
-
-
-
-

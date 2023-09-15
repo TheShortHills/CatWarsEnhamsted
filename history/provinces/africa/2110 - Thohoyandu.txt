@@ -4,4 +4,3 @@ add_core = SAF
 add_core = TRN
 trade_goods = grain
 life_rating = 35
-

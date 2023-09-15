@@ -4,7 +4,4 @@ add_core = YUG
 add_core = CRO
 trade_goods = fruit
 life_rating = 35
-1861.1.1 = {
-	naval_base = 2
-}
-
+naval_base = 1

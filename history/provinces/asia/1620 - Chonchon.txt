@@ -4,6 +4,3 @@ add_core = NKO
 add_core = KOR
 trade_goods = iron
 life_rating = 35
-
-
-
