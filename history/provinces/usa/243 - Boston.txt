@@ -1,6 +1,4 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = USAcontroller = USAadd_core = USA
 #add_core = NEN
 trade_goods = grain
 life_rating = 40
@@ -21,15 +19,6 @@ state_building = {
 	building = clipper_shipyard
 	upgrade = yes
 }
-1861.1.1 = {
-	state_building = {
-		level = 2
-		building = fabric_factory
-		upgrade = yes
-	}
-}
-1861.1.1 = { 
-	railroad = 3 
-	naval_base = 2
-}
+
+
 
