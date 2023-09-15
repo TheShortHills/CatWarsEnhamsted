@@ -3,5 +3,4 @@ controller = NET
 add_core = NET
 trade_goods = cattle
 life_rating = 36
-1861.1.1 = { railroad = 3 }
-
+railroad = 1
