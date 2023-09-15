@@ -1,7 +1,7 @@
-owner = DGR
-controller =DGR
-add_core = DGR
-#add_core = GER
+owner = BRD
+controller = BRD
+add_core = BRD
+ 
 trade_goods = iron
 life_rating = 42
 state_building = {
@@ -14,34 +14,5 @@ state_building = {
 	building = canned_food_factory
 	upgrade = yes
 }
-#state_building = {
-#	level = 1
-#	building = glass_factory
-#	upgrade = yes
-#}
-1861.1.1 = {
-	state_building = {
-		level = 1
-		building = steel_factory
-		upgrade = yes
-	}
-	state_building = {
-		level = 1
-		building = glass_factory
-		upgrade = yes
-	}
-	state_building = {
-		level = 1
-		building = winery
-		upgrade = yes
-	}
-	state_building = {
-		level = 3
-		building = canned_food_factory
-		upgrade = yes
-	}
-}
-1861.1.1 = { railroad = 3 }
-
 
 

@@ -1,8 +1,6 @@
-owner = DGR
-controller =DGR
-add_core = DGR
-#add_core = GER
+owner = BRD
+controller = BRD
+add_core = BRD
+ 
 trade_goods = timber
 life_rating = 35
-1861.1.1 = { railroad = 3 }
-
