@@ -1968,8 +1968,10 @@
 550;546;sea;0;0;Prenzlau to Stettin
 550;681;sea;0;0;Prenzlau to Kustrin
 552;681;sea;0;0;Cottbus to Kustrin
-681;682;sea;0;0;Breslau to Kustrin
+681;683;sea;0;0;Kustrin to Liegnitz
+683;684;sea;0;0;Liegnitz to Oppeln
 682;684;sea;0;0;Breslau to Oppeln
+682;685;sea;0;0;Breslau to Kattowitz
 688;631;sea;0;0;Troppau to Brno
 688;685;sea;0;0;Troppau to Kattowitz
 688;689;sea;0;0;Troppau to Tesin

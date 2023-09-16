@@ -1,7 +1,7 @@
-owner = DGR
-controller =DGR
-add_core = DGR
-#add_core = GER
+owner = BRD
+controller = BRD
+add_core = BRD
+ 
 trade_goods = sulphur
 life_rating = 38
 fort = 1
@@ -10,15 +10,3 @@ state_building = {
 	building = ammunition_factory
 	upgrade = yes
 }
-1861.1.1 = {
-	state_building = {
-		level = 2
-		building = ammunition_factory
-		upgrade = yes
-	}
-}
-1861.1.1 = { 
-	railroad = 3
-	fort = 3
-}
-

@@ -1,11 +1,7 @@
-owner = DGR
-controller =DGR
-add_core = DGR
-#add_core = SCH
-#add_core = GER
-#add_core = SCA
+owner = BRD
+controller =BRD
+add_core = BRD
 trade_goods = cattle
 life_rating = 35
 fort = 1
-1861.1.1 = { railroad = 2 }
-
+railroad = 1

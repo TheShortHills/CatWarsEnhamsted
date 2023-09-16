@@ -4,8 +4,5 @@ add_core = ENG
 trade_goods = coal
 life_rating = 35
 naval_base = 2
-1861.1.1 = { 
-	railroad = 3
-	naval_base = 3
-}
+railroad = 1
 

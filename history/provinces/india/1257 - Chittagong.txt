@@ -3,5 +3,3 @@ controller = PNJ
 add_core = PNJ
 trade_goods = grain
 life_rating = 32
-
-

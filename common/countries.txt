@@ -1,9 +1,10 @@
 #Please keep tags sorted alphabetically when you add/remove country tags
 #Do not remove this rebel entry.
 REB 	= 	"countries/rebels.txt"
+
 # CWE Tags 
-DDR 		= "countries/East Germany.txt"
-DGR		= "countries/West Germany.txt"
+DDR 	= "countries/East Germany.txt"
+BRD		= "countries/West Germany.txt"
 INO		= "countries/Indonesia.txt"
 SVI		= "countries/South Vietnam.txt"
 KMT		= "countries/Republic of China.txt"

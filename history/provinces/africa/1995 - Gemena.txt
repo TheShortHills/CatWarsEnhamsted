@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = BEL
+controller = BEL
 colonial = 2
 trade_goods = cotton
 life_rating = 15

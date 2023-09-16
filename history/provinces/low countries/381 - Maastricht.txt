@@ -1,9 +1,9 @@
 owner = NET
 controller = NET
 add_core = NET
-
 trade_goods = coal
 life_rating = 35
+railroad = 1
 state_building = {
 	level = 1
 	building = canned_food_factory
@@ -14,17 +14,5 @@ state_building = {
 	building = liquor_distillery
 	upgrade = yes
 }
-1861.1.1 = {
-	state_building = {
-		level = 1
-		building = ammunition_factory
-		upgrade = yes
-	}
-}
-1861.1.1 = { 
-	railroad = 3
-	owner = NET
-	controller = NET
-	remove_core = BEL
-}
+
 

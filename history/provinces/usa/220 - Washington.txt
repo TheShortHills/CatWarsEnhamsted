@@ -1,6 +1,4 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = USAcontroller = USAadd_core = USA
 trade_goods = grain
 life_rating = 35
 fort = 1
@@ -9,16 +7,4 @@ state_building = {
 	building = ammunition_factory
 	upgrade = yes
 }
-1861.1.1 = {
-	party_loyalty = {
-		ideology = liberal
-		loyalty_value = 15
-	}
-	state_building = {
-		level = 2
-		building = ammunition_factory
-		upgrade = yes
-	}
-}
-1861.1.1 = { railroad = 3 }
-
+railroad = 1

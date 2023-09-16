@@ -15,23 +15,5 @@ state_building = {
 	building = steel_factory
 	upgrade = yes
 }
-1861.1.1 = {
-	state_building = {
-		level = 2
-		building = steamer_shipyard
-		upgrade = yes
-	}
-	state_building = {
-		level = 3
-		building = steel_factory
-		upgrade = yes
-	}
-	state_building = {
-		level = 1
-		building = fabric_factory
-		upgrade = yes
-	}
-	railroad = 3
-	naval_base = 3
-}
+railroad = 1
 

@@ -1,9 +1,6 @@
-add_core = FIJ
+owner = ENG
+controller = ENG
+colonial = 2
 trade_goods = fish
 life_rating = 20
-1861.1.1 = {
-	owner = ENG
-	controller = ENG
-	colonial = 2
-}
-
+naval_base = 1
