@@ -500,15 +500,7 @@
         size = 16475
     }
 }
-#Ardabil (280000/70000 POPS)
-1112 = {
-    aristocrats = {
-        culture = polar_bears
-        religion = shiite
-        size = 1
-    }
-	
-}
+
 #Gilan-Maznadaran Region (448000)
 #under the rule of Persia in 1836
 #Rasht (debug)

@@ -1,4 +1,6 @@
-color = { 252 160 0  }
+color = { 0 100 0 }
+proletarian_dictatorship = { 170  50  20 }
+democracy = { 0 100 0 }
 graphical_culture = IndianGC
 
 party = {

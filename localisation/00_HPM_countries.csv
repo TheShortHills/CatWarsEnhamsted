@@ -1899,8 +1899,8 @@ PML;Pomerelia;;;;;;;;;;;;x
 PML_ADJ;Pomerelian;;;;;;;;;;;;x
 PNP;Pohnpei;Pohnpei;Pohnpei;;;;;;;;;;;;x
 PNP_ADJ;Pohnpeian;Pohnpeian;Pohnpeian;;;;;;;;;;;;x
-PNJ;Punjab;Pendjab;Pandschab;;Punjab;;;;;;;;;;x;;;;;;;;;;;;;;
-PNJ_ADJ;Panjabi;Penjabi;Pundschabisch;;;;;;;;;;;;x;;;;;;;;;;;;;;
+PNJ;Pakistan;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+PNJ_ADJ;Pakistani;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_conservative;Khalsa;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_liberal;Fauj-i-Khas;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_reactionary;Misls;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -1908,16 +1908,6 @@ PNJ_anarcho_liberal;The Radical Party;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_socialist;The Socialist Party;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_communist;The Communist Party;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_fascist;The Fascist Party;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-PNJ_absolute_monarchy;The Sikh Empire;;;;;;;;;;;;x
-PNJ_prussian_constitutionalism;The Sikh Empire;;;;;;;;;;;;x
-PNJ_absolute_monarchy_ADJ;Sikh;;;;;;;;;;;;x
-PNJ_prussian_constitutionalism_ADJ;Sikh;;;;;;;;;;;;x
-PNJ_hms_government;The Sikh Kingdom;;;;;;;;;;;;x
-PNJ_hms_government_ADJ;Sikh;;;;;;;;;;;;x
-PNJ_democracy;Khalistan;;;;;;;;;;;;x
-PNJ_democracy_ADJ;Khalistani;;;;;;;;;;;;x
-PNJ_fascist_dictatorship;Khalistan;;;;;;;;;;;;x
-PNJ_fascist_dictatorship_ADJ;Khalistani;;;;;;;;;;;;x
 PNT;Pontus;;;;;;;;;;;;x
 PNT_ADJ;Pontic;;;;;;;;;;;;x
 PRI;Puerto Rico;Puerto Rico;Puerto Rico;;Puerto Rico;;;;;;;;;x
